@@ -124,4 +124,4 @@ The other projects are adapted from various YouTube channels:
 - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 - [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 
-## Follow @ github.com/salmancz for more content like these
+## Follow @ (https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsalmancz) for more content like these
